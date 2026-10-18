@@ -1,0 +1,19 @@
+# Java build output
+*.class
+target/
+out/
+
+# Node / React
+node_modules/
+build/
+dist/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Secrets - never upload these
+.env
+*.env
